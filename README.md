@@ -12,3 +12,4 @@ WIP collection of my filament tests (feat. Benchy)
 9. ERYONE "Galaxy Red" PLA
 10. Protopasta "Nebula Multicolor" HTPLA
 11. Hatchbox "Purple" PETG
+12. Prusa "Silver" PLA
